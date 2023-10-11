@@ -4,13 +4,14 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="16dp">
-
+    <!-- Botón para abrir un archivo de texto -->
     <Button
         android:id="@+id/openFileButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Open File" />
 
+    <!-- Vista de Texto para mostrar el contenido de archivos de texto -->
     <TextView
         android:id="@+id/contentTextView"
         android:layout_width="match_parent"

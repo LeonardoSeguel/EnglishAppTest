@@ -22,6 +22,7 @@
             </intent-filter>
         </activity>
     </application>
+    <!-- Permiso para leer almacenamiento externo -->
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
 

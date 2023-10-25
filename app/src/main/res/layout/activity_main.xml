@@ -9,7 +9,7 @@
         android:id="@+id/openFileButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Open File" />
+        android:text="@string/open_file" />
 
     <!-- Vista de Texto para mostrar el contenido de archivos de texto -->
     <TextView
